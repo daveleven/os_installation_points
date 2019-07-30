@@ -1,4 +1,4 @@
-# os_installation_points
+# OS Installation Points
 Points on intalling OS on laptop or PC.
 
 Pragmatic questions to consider before doing anything dangerous:
