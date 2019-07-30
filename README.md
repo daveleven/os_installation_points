@@ -1,4 +1,4 @@
-# OS Installation Points
+# OS Installation Hints
 Points on intalling OS on laptop or PC.
 
 Pragmatic questions to consider before doing anything dangerous:
